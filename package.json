@@ -19,5 +19,8 @@
   "homepage": "https://github.com/amitassa/NestJS-Exercise#readme",
   "dependencies": {
     "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.8"
   }
 }
